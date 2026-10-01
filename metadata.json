@@ -1,0 +1,6 @@
+{
+  "name": "Honey Chain – Blockchain Honey Traceability & Smart Beekeeping",
+  "description": "A blockchain-powered honey traceability and smart beekeeping management platform from hive to home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
